@@ -1,0 +1,6 @@
+C:\Users\MAM\AppData\Local\Temporary Projects\ProductSearch\bin\Debug\ProductSearch.exe
+C:\Users\MAM\AppData\Local\Temporary Projects\ProductSearch\bin\Debug\ProductSearch.pdb
+C:\Users\MAM\AppData\Local\Temporary Projects\ProductSearch\obj\x86\Debug\ProductSearch.exe
+C:\Users\MAM\AppData\Local\Temporary Projects\ProductSearch\obj\x86\Debug\ProductSearch.pdb
+C:\Users\MAM\documents\visual studio 2010\Projects\ProductSearch\ProductSearch\obj\x86\Debug\ProductSearch.exe
+C:\Users\MAM\documents\visual studio 2010\Projects\ProductSearch\ProductSearch\obj\x86\Debug\ProductSearch.pdb
